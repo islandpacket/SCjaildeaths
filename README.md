@@ -1,6 +1,8 @@
 # SC jail deaths
 No state agency comprehensively tracks deaths in the custody of locally-run jails and detention facilities in South Carolina, and data compiled by the federal government isn't made public on the facility level. The Island Packet compiled the most comprehensive public count of these deaths, dating back to 2009, from several sources. The newspaper's dataset shouldn't be treated as a comprehensive tally of deaths, given the limitations in the data sources outlined below. The newspaper did not file public records request for deaths in custody with each of the roughly 60 local jails and dentention facilities in the state. However, FOIA requests were sent to 8 facilities where reporters weren't able to identify any in-custody deaths between dating back to 2009 from other sources. The data will be updated with the responsive documents and with other deaths identified through media reports or other sources.  
 
+View the codesheet for column descriptions. Whereever possible, reporters identified the primary source where a death was located and what information was added through supplemental sources.
+
 If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas at [llarson@islandpacket.com](mailto:llarson@islandpacket.com)
 
 ## Data sources
