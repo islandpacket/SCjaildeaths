@@ -1,7 +1,9 @@
 # SC jail deaths
-No state agency comprehensively tracks deaths in the custody of locally-run jails and detention facilities in South Carolina, and data compiled by the federal government isn't made public on the facility level. The Island Packet compiled the most comprehensive public count of these deaths, dating back to 2009, from several sources. The newspaper's dataset shouldn't be treated as a comprehensive tally of deaths, given the limitations in the data sources outlined below. The newspaper did not file public records requests for deaths in custody with each of the roughly 60 local jails and dentention facilities in the state. However, FOIA requests were sent to 8 facilities where reporters weren't able to identify any in-custody deaths between dating back to 2009 from other sources. The data will be updated with the responsive documents and with other deaths identified through media reports or other sources.  
+No state agency comprehensively tracks deaths in the custody of locally-run jails and detention facilities in South Carolina, and data compiled by the federal government isn't made public on the facility level. The Island Packet compiled the most comprehensive public count of these deaths, dating back to 2009, from several sources. 
 
-View the codesheet for column descriptions. Wherever possible, reporters identified the primary source where a death was located and what information was added through supplemental sources. Deaths include inmates who died while receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports.
+The newspaper's dataset shouldn't be treated as a comprehensive tally of deaths, given the limitations in the data sources outlined below. The newspaper did not file public records requests for deaths in custody with each of the roughly 60 local jails and dentention facilities in the state. However, FOIA requests were sent to 8 facilities where reporters weren't able to identify any in-custody deaths between dating back to 2009 from other sources. The data will be updated with the responsive documents and with other deaths identified through media reports or other sources.  
+
+View the codesheet for column descriptions. Wherever possible, reporters identified the primary source where a death was identified and what information was added through supplemental sources. Deaths include inmates who died while receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports.
 
 If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas Smolcic Larson at [llarson@islandpacket.com](mailto:llarson@islandpacket.com)
 
@@ -10,29 +12,29 @@ If you have questions about this data, find incorrect information in it or know 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | `main_source`          | which major records were used to identify this death                                                                           |
-| `date of death`        | date of inmate death                                                                                                           |
-| `time_of_death`                | time of inmate death, if available                                                                                           |
-| `first_name`                 | inmate's first name                                                                                                                  |
-| `mid_name`                 | inmate's middle name                                                   |
-| `last_name`               | inmate's last name                                                                                       |
-| `suffix`  | suffix to inmate's name                                                           |
-| `SCDC_form_date`      | date jail completed SCDC Form 8-2 (if present)                                                                             |
-| `county`     | county where jail located                                                      |
-| `gender`         | inmate's gender                                                                              |
-| `race`     | inmate's race                                                   |
-| `age`     | inmate's age                                                              |
-| `dob`     | inmate's date of birth                                                             |
-| `yob`         | inmates year of birth (if dob not available)                                                                               |
-| `cause_detail`     | Details about the cause of death                                                               |
-| `jail` | name of jail                                                      |
-| `date incarcerated`  | date inmate incarcerated                        |
-| `time_incarcerated`      | time inmate incarcerated                                           |
-| `arresting_charges`  | charges when inmate was booked                                                         |
-| `custody_status`      | sentenced or pretrial at time of death                                                                            |
-| `officer_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)                                           |
-| `inmate_count`         | # of inmates at time of death (from SCDC Form 8-2)                                                              |
+| `date of death`        | date of inmate death           |
+| `time_of_death`                | time of inmate death, if available   |
+| `first_name`                 | inmate's first name      |
+| `mid_name`                 | inmate's middle name         |
+| `last_name`               | inmate's last name    |
+| `suffix`  | suffix to inmate's name   |
+| `SCDC_form_date`      | date jail completed SCDC Form 8-2 (if present)  |
+| `county`     | county where jail located    |
+| `gender`         | inmate's gender          |
+| `race`     | inmate's race       |
+| `age`     | inmate's age     |
+| `dob`     | inmate's date of birth    |
+| `yob`         | inmates year of birth (if dob not available)    |
+| `cause_detail`     | Details about the cause of death       |
+| `jail` | name of jail     |
+| `date incarcerated`  | date inmate incarcerated   |
+| `time_incarcerated`      | time inmate incarcerated    |
+| `arresting_charges`  | charges when inmate was booked     |
+| `custody_status`      | sentenced or pretrial at time of death  |
+| `officer_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)  |
+| `inmate_count`         | # of inmates at time of death (from SCDC Form 8-2)     |
 | `news_coverage`             | links to news coverage of the death |
-
+| `info_from_media`             | which fields were filled using information from local media reports and other sources |
 
 ## Data sources
 ### S.C. Department of Corrections Form 8-2
