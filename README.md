@@ -3,10 +3,35 @@ No state agency comprehensively tracks deaths in the custody of locally-run jail
 
 View the codesheet for column descriptions. Wherever possible, reporters identified the primary source where a death was located and what information was added through supplemental sources. Deaths include inmates who died while receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports.
 
-If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas at [llarson@islandpacket.com](mailto:llarson@islandpacket.com)
+If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas Smolcic Larson at [llarson@islandpacket.com](mailto:llarson@islandpacket.com)
 
+## Data Dictionary
 
-
+| Variable               | Description                                                                                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| `main_source`          | which major records were used to identify this death                                                                           |
+| `date of death`        | date of inmate death                                                                                                           |
+| `time_of_death`                | time of inmate death, if available                                                                                           |
+| `first_name`                 | inmate's first name                                                                                                                  |
+| `mid_name`                 | inmate's middle name                                                   |
+| `last_name`               | inmate's last name                                                                                       |
+| `suffix`  | suffix to inmate's name                                                           |
+| `SCDC_form_date`      | date jail completed SCDC Form 8-2 (if present)                                                                             |
+| `county`     | county where jail located                                                      |
+| `gender`         | inmate's gender                                                                              |
+| `race`     | inmate's race                                                   |
+| `age`     | inmate's age                                                              |
+| `dob`     | inmate's date of birth                                                             |
+| `yob`         | inmates year of birth (if dob not available)                                                                               |
+| `cause_detail`     | Details about the cause of death                                                               |
+| `jail` | name of jail                                                      |
+| `date incarcerated`  | date inmate incarcerated                        |
+| `time_incarcerated`      | time inmate incarcerated                                           |
+| `arresting_charges`  | charges when inmate was booked                                                         |
+| `custody_status`      | sentenced or pretrial at time of death                                                                            |
+| `officer_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)                                           |
+| `inmate_count`         | # of inmates at time of death (from SCDC Form 8-2)                                                              |
+| `news_coverage`             | links to news coverage of the death |
 
 
 ## Data sources
