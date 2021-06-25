@@ -7,6 +7,8 @@ If you have questions about this data, find incorrect information in it or know 
 
 
 
+
+
 ## Data sources
 ### S.C. Department of Corrections Form 8-2
 South Carolina [law requires](https://www.scstatehouse.gov/query.php?search=DOC&searchtext=24%209%2035&category=CODEOFLAWS&conid=36780581&result_pos=0&keyval=16879&numrows=10#OCC1) local detention facilities to report to SCDC within 72 hours of a death of an inmate, whether incarcerated or otherwise in their custody. The Island Packet obtained these documents through a S.C. Freedom of Information Act request for records dated from 2009 to June 15, 2021. Reporters manually entered the forms' fields into the dataset. Many forms were incomplete or lacking a cause of death and reporters supplemented missing information with other sources. The Island Packet excluded deaths reported for inmates in the custody of home incarceration programs in Horry and Greenville counties. Dozens of deaths identified by the newspaper did not have a corresponding SCDC form. When a repoter shared these deaths with SCDC, its records office said it would produce additional documents.
