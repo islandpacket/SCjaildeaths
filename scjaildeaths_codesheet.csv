@@ -1,0 +1,25 @@
+field,description
+main_source,which major records used to identify the death
+date_of_death,date of death
+time_of_death,time of death
+first_name,inmate's first name
+mid_name,inmate's middle name(s)
+last_name,inmate's last name
+suffix,suffix to inmate's name
+SCDC_form_dated,date jail wrote on SCDC Form 8-2 (if present)
+county,county where jail located
+gender,gender of inmate
+race,race of inmate
+age,age of inmate
+dob,date of birth of inmate
+yob,year of birth of inmate
+cause_detail,details about the cause of death
+jail,name of jail 
+date_incarcerated,date inmate incarcerated
+time_incarcerated,time inmate incarcerated
+arresting_offenses,charges when booked
+custody_status,sentenced or pretrial at time of death
+officers_on_duty,# of officers on duty at time of death (from SCDC Form 8-2)
+inmate_count,# of inmates in custody at time of death (from SCDC Form 8-2)
+news_coverage,links to news coverage of death
+info_from_media,which fields were filled using information from local media reports and other sources
