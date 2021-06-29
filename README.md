@@ -34,7 +34,7 @@ If you have questions about this data, find incorrect information in it or know 
 | `officer_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)  |
 | `inmate_count`         | # of inmates at time of death (from SCDC Form 8-2)     |
 | `news_coverage`             | links to news coverage of the death |
-| `info_from_media`             | which fields were filled using information from local media reports and other sources |
+| `info_from_media`             | which fields were filled using information from local media reports and other secondary sources |
 
 ## Data sources
 ### S.C. Department of Corrections Form 8-2
