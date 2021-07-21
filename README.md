@@ -1,9 +1,9 @@
 # SC jail deaths
 No state agency comprehensively tracks deaths in the custody of locally-run jails and detention facilities in South Carolina, and data compiled by the federal government isn't made public on the facility level. The Island Packet compiled the most comprehensive public count of these deaths, dating back to 2009, from several sources. 
 
-The newspaper's dataset shouldn't be treated as a complete tally of deaths, given the limitations in the data sources outlined below. The newspaper did not file public records requests for deaths in custody with each of the roughly 60 local jails and dentention facilities in the state. However, FOIA requests were sent to 8 facilities where reporters weren't able to identify any in-custody deaths between dating back to 2009 from other sources. The data will be updated with the responsive documents and with other deaths identified through media reports or other sources.  
+The newspaper's dataset shouldn't be treated as a complete tally of deaths, given the limitations in the data sources outlined below. It is current up to June 15, 2021. The newspaper did not file public records requests for deaths in custody with each of the roughly 60 local jails and dentention facilities in the state. However, FOIA requests were sent to 8 facilities where reporters weren't initially able to identify any in-custody deaths between dating back to 2009 from other sources.  
 
-View the codesheet for column descriptions. Wherever possible, reporters identified the primary source where a death was identified and what information was added through supplemental sources. Deaths include inmates who died while receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports.
+View the codesheet for column descriptions. Wherever possible, reporters identified the primary source where a death was identified and what information was added through supplemental sources. Deaths include inmates who died while receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports or other sources.
 
 If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas Smolcic Larson at [llarson@islandpacket.com](mailto:llarson@islandpacket.com)
 
@@ -54,3 +54,20 @@ Between July 13, 2015 and July 13, 2016, The Huffington Post tracked jail deaths
 
 ### South Carolina court records and local media reports
 The Island Packet also used wrongful death and personal injury lawsuits filed in South Carolina courts to identify and supplement information on jail deaths. When a local news story or lawsuit is the primary source for a specific death, it is identified as such in the data. When only certain information was obtained from local news reports or court records, it was noted in the dataset. 
+
+### Reports maintained by local jails an obtained via FOIA
+Reporters filed records requests with eight local jails for which they could not initially identify in-custody deaths from other sources. The Island Packet used request language similar to that employed by Reuters journalists for their national investigation ([published by MuckRock](https://www.muckrock.com/news/archives/2021/mar/09/reuters-local-jails-data-webinar/)) to cover deaths occuring between Jan. 1, 2009 and June 20, 2021. The result of those requests are outlined below.
+| Jail               | Responsive records                                                                                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Allendale County Detention Center   | Jail administrators report no deaths for the time period requested |
+| Bamberg County Detention Center   | Jail administrators report no deaths for the time period requested |
+| Darlington County Detention Center   | Jail administrators provided reports for three deaths and oral confirmation of a fourth |
+| Hampton County Detention Center   | Jail administrators report no deaths for the time period requested  |
+| Marion County Detention Center   | Jail administrators provided report of one death |
+| McCormick County Detention Center   | Jail administrators report no deaths for the time period requested  |
+| Saluda County Detention Center   | Jail administrators report no deaths for the time period requested  |
+| Williamsburg County Detention Center   | Jail administrators report no deaths for the time period requested  |
+
+
+
+
