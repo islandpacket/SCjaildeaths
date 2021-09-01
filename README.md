@@ -57,7 +57,7 @@ Between July 13, 2015 and July 13, 2016, The Huffington Post tracked jail deaths
 ### South Carolina court records and local media reports
 The Island Packet also used wrongful death and personal injury lawsuits filed in South Carolina courts to identify and supplement information on jail deaths. When a local news story or lawsuit is the primary source for a specific death, it is identified as such in the data. When only certain information was obtained from local news reports or court records, it was noted in the dataset. 
 
-### Reports maintained by local jails an obtained via FOIA
+### Reports maintained by local jails and obtained via FOIA
 Reporters filed records requests with eight local jails for which they could not initially identify in-custody deaths from other sources. The Island Packet used request language similar to that employed by Reuters journalists for their national investigation ([published by MuckRock](https://www.muckrock.com/news/archives/2021/mar/09/reuters-local-jails-data-webinar/)) to cover deaths occurring between Jan. 1, 2009 and June 20, 2021. The Island Packet also filed FOIA requests with five additional jails that appeared to not be consistently sending Form 8-2s to SCDC. Three of them responded in advance of publication. The result of those requests are outlined below and included in the dataset.
 
 | Jail               | Responsive records                                                                                                                    |
