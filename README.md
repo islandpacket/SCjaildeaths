@@ -79,7 +79,10 @@ Reporters filed records requests with eight local jails for which they could not
 | Chesterfield County Detention Center   | Jail administrators did not respond in advance of publication  |
 | Colleton County Detention Center   | Jail administrators did not respond in advance of publication |
 
+## Credit
+This dataset was compiled by Lucas Smolcic Larson, projects reporter with The Island Packet. Nick Sullivan, an intern with The State Media Co., contributed reporting and verified data. The story based on this dataset was edited by Gina Smith, regional projects editor. Special thanks to Tyler Dukes at the Raleigh News & Observer for providing records, Grant Smith at Reuters for sharing expertise and Dr. Robert Kaminski at the University of South Carolina for sharing arrest-related death reports. 
 
+We encourage other news organizations and researchers to use this dataset and ask that it be credited to The Island Packet.
 
 
 
