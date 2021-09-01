@@ -7,7 +7,7 @@ The Island Packet's dataset is most comprehensive between Jan. 1, 2009 and June 
 
 View the data dictionary below for column descriptions. Wherever possible, reporters identified the primary source where a death was identified and what information was added through supplemental sources. Deaths include inmates who died inside jails and deaths of inmates receiving medical care outside of a detention facility, but not deaths of inmates monitored by jails but released as part of a home incarceration program in some counties. Missing information for a specific death indicates it was not listed on a primary source document and reporters couldn't locate it in news reports or other sources. Full cause and manner of death wasn't available in each case, and reporters included as much information as was available on documents, however specific.
 
-If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas Smolcic Larson at [SCjaildeaths@gmail.com](mailto:scjaildeaths@gmail.com)
+If you have questions about this data, find incorrect information in it or know of deaths that were not included, please email Lucas Smolcic Larson at [SCjaildeaths@gmail.com](mailto:scjaildeaths@gmail.com). We encourage the use of this dataset by researchers, journalists and others and ask that it be credited to The Island Packet.
 
 ## Data Dictionary
 
