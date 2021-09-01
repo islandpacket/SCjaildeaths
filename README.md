@@ -13,7 +13,7 @@ If you have questions about this data, find incorrect information in it or know 
 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| `main_source`          | which major records were used to identify this death: SCDC = SCDC Form 8-2; Reuters = Reuters News data; SCDPS = annual arrest-related death research reports; DCRA = DCR-1A form maintained by SCDPS; Local media = local news reports; Lawsuit = wrongful death lawsuit complaint |
+| `main_source`          | which major records were used to identify this death: SCDC = SCDC Form 8-2; Reuters = Reuters News data; SCDPS = annual arrest-related death research reports; DCRA = DCR-1A form maintained by SCDPS; Local media = local news reports; Lawsuit = wrongful death lawsuit complaint; jail = FOIA request sent directly to facility |
 | `date of death`        | date of inmate death           |
 | `time_of_death`                | time of inmate death, if available   |
 | `first_name`                 | inmate's first name      |
