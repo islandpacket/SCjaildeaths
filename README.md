@@ -20,23 +20,26 @@ If you have questions about this data, find incorrect information in it or know 
 | `mid_name`                 | inmate's middle name         |
 | `last_name`               | inmate's last name    |
 | `suffix`  | suffix to inmate's name   |
-| `SCDC_form_date`      | date jail completed SCDC Form 8-2 (if present)  |
+| `SCDC_form_dated`      | date jail completed SCDC Form 8-2 (if present)  |
+| `SCDC_form_days`      | days between date of inmate death and the date listed under signature on SCDC Form 8-2 (calculated field)  |
 | `county`     | county where jail located    |
 | `gender`         | inmate's gender          |
 | `race`     | inmate's race       |
 | `age`     | inmate's age     |
 | `dob`     | inmate's date of birth    |
 | `yob`         | inmates year of birth (if dob not available)    |
-| `cause_detail`     | Details about the cause of death       |
+| `cause_detail`     | details about the cause of death and manner of death, if available    |
 | `jail` | name of jail     |
 | `date incarcerated`  | date inmate incarcerated   |
 | `time_incarcerated`      | time inmate incarcerated    |
+| `days_incarcerated`      | days between date incarcerated and date of death (calculated field)  |
 | `arresting_charges`  | charges when inmate was booked     |
-| `custody_status`      | sentenced or pretrial at time of death  |
-| `officer_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)  |
+| `custody_status`      | sentenced or pretrial at time of death (from SCDC Form 8-2 unless otherwise noted in `info_from_media`) |
+| `officers_on_duty`     | # of officers on duty at time of death (from SCDC Form 8-2)  |
 | `inmate_count`         | # of inmates at time of death (from SCDC Form 8-2)     |
 | `news_coverage`             | links to news coverage of the death |
-| `info_from_media`             | which fields were filled using information from local media reports and other secondary sources |
+| `notes`             | misc notes from SCDC Form 8-2 or other sources |
+| `info_from_media`             | which fields were filled using information from local media reports and other secondary sources -- if info came from sources other than local news reports, specific source noted in parentheses |
 
 ## Data sources
 ### S.C. Department of Corrections Form 8-2
